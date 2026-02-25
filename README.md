@@ -1,6 +1,9 @@
 # woopayouts-to-xero
 Free version of WooPayouts to Xero Integration for WooCommerce.
 
+Learn more: https://hashy.com.au/woopayouts-to-xero-plugin/
+
+
 Installation Guide:
 1. Install
 2. Navigate to Settings
@@ -27,4 +30,4 @@ Discover premium to enable features such as:
 - Immediate Payout Invoices - allows auto-reconciling
 - Submit invoices as draft or pending payment
 - PDF Summary sent straight to your email
-Learn more: https://hashy.com.au/woopayouts-to-xero-plugin/
+
