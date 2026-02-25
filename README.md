@@ -3,6 +3,9 @@ Free version of WooPayouts to Xero Integration for WooCommerce.
 
 Learn more: https://hashy.com.au/woopayouts-to-xero-plugin/
 
+Download the plugin zip here: https://github.com/Hashy-au/woopayouts-to-xero/blob/main/woopayouts-to-xero-free-1.0.0.zip
+
+Find on Wordpress.org: 
 
 Installation Guide:
 1. Install
